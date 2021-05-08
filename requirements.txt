@@ -1,0 +1,13 @@
+numpy
+pip>=9.0.0
+pandas
+matplotlib
+Keras
+h5py
+pillow
+scikit-learn
+scipy
+tensorboard
+tensorflow
+google-api-python-client==1.6.7
+joblib
